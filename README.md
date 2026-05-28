@@ -5,8 +5,10 @@ Turn your closet into an AI stylist.
 Upload your clothes.
 Get personalized outfits instantly.
 
-![Uploading demo.gif…]()
 
+
+
+<img width="1280" height="638" alt="demo" src="https://github.com/user-attachments/assets/1de414ec-6de2-4bf4-a9ae-c2f2578b7720" />
 
 
 ---
